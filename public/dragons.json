@@ -1,0 +1,25 @@
+{
+    "dragons": [
+      {
+        "name": "Boutefeu Chinois",
+        "origin": "Chine",
+        "description": "Le Boutefeu Chinois est caractérisé par ses écailles rouge vif et ses longues cornes dorées. Il crache un feu très chaud."
+      },
+      {
+        "name": "Magyar à pointes",
+        "origin": "Hongrie",
+        "description": "Le Magyar à pointes est noir et il est connu pour sa brutalité. Il a des yeux jaunes, des cornes bronze et des piques sur le dos."
+      },
+      {
+        "name": "Vert Gallois",
+        "origin": "Pays de Galles",
+        "description": "Le Vert Gallois est plus petit que les autres dragons. Il a des écailles vert foncé et crache un feu étroit."
+      },
+      {
+        "name": "Suédois à museau court",
+        "origin": "Suède",
+        "description": "Le Suédois à museau court a des écailles bleu argent qui brillent en vol. Il est connu pour la flamme bleue qu'il crache."
+      }
+    ]
+  }
+  
